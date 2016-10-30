@@ -1,0 +1,3 @@
+Join Dark Art of Coding for a 3-hour hands-on session, where we will help you install Jupyter, configure it and then create your first fully formed Jupyter Notebook. You will learn to create notebooks that blend code with text to produce reports and graphs. We will demo the steps and help you replicate them yourself with side-saddle mentoring and fun learning activities.
+
+Dark Art of Coding has an extensive background in teaching highly technical topics to students of all ages and skill levels. Our focus is predominantly Python: we teach "Introduction to Programming with Python" and "Python Programming Essentials, Automating Everyday Tasks Using Python".
